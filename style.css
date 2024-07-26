@@ -80,3 +80,25 @@
     padding: 20px 100px ;
     align-items: center;
 }
+.container{
+    position: relative;
+    width: 100%;
+    padding: 10px 100px;
+    align-items: center;
+}
+.about-container{
+    position: relative;
+    width: 100%;
+    align-items: center;
+    padding: 50px 100px;
+
+}
+.about-article{
+    display: flex;
+    align-items: center;
+    text-align: left;
+    gap: 10px;
+}
+.about-article img{
+    width: 50px;
+}
